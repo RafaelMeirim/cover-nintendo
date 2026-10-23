@@ -1,4 +1,4 @@
-# Projeto para cover em PT-BR da jogos do Nintendo Switch 1 e 2
+# Projeto para cover em PT-BR de jogos do Nintendo Switch 1 e 2
 
 # Como usar
 Arquivos em PDF estão formatados como folha de ofício, mas na impressão utilizem o papel em folha tamanho A4 com orientação automática e tamanho real.
